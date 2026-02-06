@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Serías mi san Valentín estr 14 de febrero de 2026? 🌹", // The big question!
+            text: "Serías mi san Valentín este 14 de febrero de 2026? 🌹", // The big question!
             yesBtn: "Siiiii!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Vamonooos! Soy el hombre más afortunado del mundo! 🎉💝💖💝💓",
-        message: "Me hace muy feliz poder compartir otro San Valentín conmigo!!",
+        message: "Me hace muy feliz poder compartir otro San Valentín contigo!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
