@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Serías mi san Valentín este 14 de febrero de 2026? 🌹", // The big question!
+            text: "Entonces serías mi san Valentín este 14 de febrero de 2026? 🌹", // The big question!
             yesBtn: "Siiiii!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW De verás me quieres tanto?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "OSTIEEEE De verás me quieres tanto?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "Hasta el infinito y más allá! 🚀💝",              // Shows when they go past 1000%
         normal: "Y mucho más! 🥰"                           // Shows when they go past 100%
     },
